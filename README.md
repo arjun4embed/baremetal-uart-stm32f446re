@@ -3,6 +3,8 @@
 Custom UART driver for STM32F446RE using direct register-level programming (no HAL).
 
 ---
+## Output (USART2 via Serial Terminal)
+<img width="1261" height="1021" alt="image" src="https://github.com/user-attachments/assets/7f71a8e4-e1c5-4bf1-8bb8-8de319cad7a7" />
 
 ## Features
 
